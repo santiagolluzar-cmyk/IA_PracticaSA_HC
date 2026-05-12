@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: IA.Gasolina.Test
+Created-By: 21.0.7 (Red Hat, Inc.)
+
